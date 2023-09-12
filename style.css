@@ -300,6 +300,12 @@ h2{
     .article-grid{
         grid-gap: 40px 13px;
     }
+
+    .section-header h2{
+        z-index: 50;
+        top: 85;
+        background: #FFFEF9;
+    }
     
 }
 
