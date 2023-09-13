@@ -301,9 +301,8 @@ h2{
         grid-gap: 40px 13px;
     }
 
-    .section-header h2{
-        z-index: 50;
-        top: 85;
+    .section-header > h2{
+        top: 103px;
         background: #FFFEF9;
     }
     
